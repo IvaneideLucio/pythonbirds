@@ -1,2 +1,2 @@
 class Pessoa:
-    passesso
+    pass
